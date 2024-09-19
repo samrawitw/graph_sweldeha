@@ -6,4 +6,4 @@ Features Dijkstra's Shortest Path Algorithm: Compute the shortest paths from a s
 
 Run the script from the command line: python test.py graph.txt Example Output is attached in the Readme doc files
 
-Contribution Contributions to the library are welcome! Please fork the repository and submit pull requests with improvements or additional features. Ensure that any changes adhere to the existing code style and include appropriate test cases.
+Contribution Contributions to the library are welcome! Please fork the repository and submit pull requests with improvements or additional features. Ensure that any changes adhere to the existing code style and include appropriate test cases
