@@ -22,5 +22,3 @@ python test.py graph.txt
 Contribution
 Contributions to the library are welcome! Please fork the repository and submit pull requests with improvements or additional features. Ensure that any changes adhere to the existing code style and include appropriate test cases.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
